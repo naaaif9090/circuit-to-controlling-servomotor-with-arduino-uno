@@ -8,4 +8,4 @@ first: connect it directly with arduino uno . you can connect it divectly on the
 
 second: you can connect servo with external power source and signal line with uno ,(standard servo needs 6v).
 
-third: using 
+third: using pca9685 module access you to 
