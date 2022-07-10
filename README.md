@@ -1,4 +1,4 @@
-# using-servomotor-with-arduino-uno
+# circuit-to-controlling-servomotor-with-arduino-uno
 
 Servomotor is dc motor with controller and some gearbox. It is very helpful to using it in the robotics prototypes.
 I will discuss 2 types of using it with arduino uno:
